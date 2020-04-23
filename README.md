@@ -1,5 +1,5 @@
-# Author: SHIRONMARO
-# API_Used: Kakao Geocoding API based on keywords (Requires your own api_key)
+#### Author: SHIRONMARO
+#### API_Used: Kakao Geocoding API based on keywords (Requires your own api_key)
 # Description:
 ## 1. Subway_Station_Crawling.ipynb
 - Crawled all the line and station names in Korea, and cleansed them into common expressions.
@@ -18,6 +18,6 @@
 - data: a folder where a station information table is located
 - chromedriver.exe: selenium chrome driver
 
-# * On planning
+#### * On planning
 - I'm planning to make a function to optimize the place based on the time interval from station A to station B.
 - If someone has inquiries about the `optiplace' or have some good ideas to calculate time interval, please email to 'traceofpassion@gmail.com'.
