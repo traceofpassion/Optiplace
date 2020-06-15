@@ -2,13 +2,13 @@
 #### API_Used: Kakao Geocoding API based on keywords (Requires your own api_key)
 
 # Path
-|_ chromedriver.exe
-|_ Optiplace.py
-|_ Optiplace.ipynb
-|_ README.md
-|_ Subway_Station_Crawling
-|_ kakao.csv (api_key)
-|_ data
+|_ chromedriver.exe  
+|_ Optiplace.py  
+|_ Optiplace.ipynb  
+|_ README.md  
+|_ Subway_Station_Crawling  
+|_ kakao.csv (api_key)  
+|_ data  
   |_ subway_location_info.csv
 
 # Description:
