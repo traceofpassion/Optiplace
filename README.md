@@ -1,5 +1,16 @@
 #### Author: SHIRONMARO
 #### API_Used: Kakao Geocoding API based on keywords (Requires your own api_key)
+
+# Path
+|_ chromedriver.exe
+|_ Optiplace.py
+|_ Optiplace.ipynb
+|_ README.md
+|_ Subway_Station_Crawling
+|_ kakao.csv (api_key)
+|_ data
+  |_ subway_location_info.csv
+
 # Description:
 ## 1. Subway_Station_Crawling.ipynb
 - Crawled all the line and station names in Korea, and cleansed them into common expressions.

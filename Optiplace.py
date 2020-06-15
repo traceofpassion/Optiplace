@@ -61,7 +61,7 @@ def distance(centers,lat,lng):
 # - KakaoMaps를 통해 N명의 좌표를 불러오고, 중점 그룹에서 가까운 역을 거리 순으로 정렬하여 출력하는 함수입니다.
 
 user_name = getpass.getuser()
-kakao_api_key = pd.read_csv(f'C:/Users/{user_name}/Google Drive/Secret/kakao.csv')
+kakao_api_key = pd.read_csv('kakao.csv') # your own kakao api key file as csv
 headers = {'Authorization':f"{kakao_api_key['rest_api'][0]}"}
 
 def Geocoding(keyword):
