@@ -1,8 +1,0 @@
-.gitignore
-__pycache__
-.idea
-.ipynb_checkpoints
-chromedriver.exe
-kakao_api.csv
-README.Rmd
-.Rhistory
